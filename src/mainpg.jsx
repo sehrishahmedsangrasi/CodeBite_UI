@@ -35,7 +35,7 @@ const Mainpg = () => {
       </div>
 
       {/* Bottom Image */}
-      <div className="z-10 mt-[17rem] md:mt-[20rem]">
+      <div className="z-10 mt-[19rem] md:mt-[20rem]">
         <img
           src="/Bottom.png"
           alt="loading"

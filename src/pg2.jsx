@@ -63,7 +63,7 @@ const Pg2 = () => {
             Ultrices nibh sapien elit gravida ac, rutrum molestie adipiscing lacinia.
             </p>
 
-            <button className="flex bg-purple-700 text-[0.95rem] text-white px-6  md:w-[27%] py-[0.4rem] rounded-full hover:bg-purple-800 transition shadow-lg">
+            <button className="flex bg-purple-700 text-[0.95rem] text-white px-6 w-[42%]  md:w-[27%] py-[0.4rem] rounded-full hover:bg-purple-800 transition shadow-lg">
             Start for free
             </button>
         </div>

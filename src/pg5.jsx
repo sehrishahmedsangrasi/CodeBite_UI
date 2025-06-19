@@ -25,7 +25,7 @@ const Pg5 = () => {
           Scelerisque auctor dolor diam tortor, fames faucibus non interdum nunc.
           Ultrices nibh sapien elit gravida ac, rutrum molestie adipiscing lacinia.
         </p>
-        <button className="flex ml-[8rem] md:ml-0 bg-purple-700 text-[0.95rem] mt-[1.5rem] text-white px-6 w-[42%] md:w-[27%] py-[0.4rem] rounded-full hover:bg-purple-800 transition shadow-lg">
+        <button className="flex ml-[6rem] md:ml-0 bg-purple-700 text-[0.95rem] mt-[1.5rem] text-white px-6 w-[42%] md:w-[27%] py-[0.4rem] rounded-full hover:bg-purple-800 transition shadow-lg">
             Start for free
             </button>
       </div>
